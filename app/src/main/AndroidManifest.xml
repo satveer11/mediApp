@@ -18,7 +18,6 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".Main3Activity" />
-        <activity android:name=".DemoActivity"></activity>
     </application>
 
 </manifest>
